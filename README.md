@@ -9,7 +9,7 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/Elagabbas/Elagabbas/blob/main/images/Right_Side.gif?raw=true" width=25%>
+<img align="right" src="https://github.com/Mohamediibra7im/Mohamediibra7im/blob/main/images/Right_Side.gif?raw=true" width=25%>
 
 - 🌱 Currently working as **Application Development**
 - 🏆 **HR Member at HNU ICPC Community**
@@ -55,35 +55,47 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,python,java,js,html,css,tailwind,bootstrap,mysql,git,github,linux,ubuntu,debian,vscode,pycharm,postman" />
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elagabbas&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&border_radius=10" alt="GitHub Stats" width="55%"/><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Elagabbas&theme=chartreuse-dark&hide_border=false&border_radius=10" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elagabbas&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="GitHub Stats" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamediibra7im&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&border_radius=10" alt="GitHub Stats" width="55%"/><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamediibra7im&theme=chartreuse-dark&hide_border=false&border_radius=10" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamediibra7im&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="GitHub Stats" width="36%" />
 </p>
-
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
-	<a href="mailto:ahmedelgabbas769@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://x.com/Ahmed ElGabbas
-"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
-	<a href="https://wa.me/0201117024500"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/‏Ahmed ElGabbas‏"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/Ahmed Mahmoud ElGabbas "><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/elg.abbas"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://github.com/70Skaaa/70Skaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
+</p>
+<p align="center">
+  <a href="mailto:ahmedelgabbas769@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/Ahmed ElGabbas
+">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://wa.me/0201117024500">
+    <img src="https://img.shields.io/badge/whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/‏Ahmed ElGabbas">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/AhmedMahmoudElGabbas">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/elg.abbas">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ## Pac-Man vs. My GitHub Streak 🕹️👻
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Elagabbas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Elagabbas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elagabbas/Elagabbas/output/pacman-contribution-graph.svg">
-</picture>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamediibra7im/Mohamediibra7im/output/pacman-contribution-graph.svg">
+</picture> 
 
 ## Support 🙏🏼
 <p><a href="https://ko-fi.com/Ahmed ElGabbas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ahmed ElGabbas" /></a></p><br><br>
