@@ -1,0 +1,89 @@
+
+<h1 align="center">Hi ... I'm Ahmed ElGabbas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h1>
+<h3 align="center">A Passionate Application Development</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&pause=1000&color=24DF0F&center=true&vCenter=true&width=435&lines=Flutter+Developer;Frontend+Developer;Mobile+App+Engineer;Beginner+Competitive+Programmer" alt="Typing SVG" /></a>
+</p>
+
+
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
+<img align="right" src="https://github.com/Elagabbas/Elagabbas/blob/main/images/Right_Side.gif?raw=true" width=25%>
+
+- 🌱 Currently working as **Application Development**
+- 🏆 **HR Member at HNU ICPC Community**
+- 🏆**Head Team Leader at HNU_FCSIT**
+- :computer: I am a beginner competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `HackerRank`
+- :thinking: This is **[MY RESUME](https://drive.google.com/file/d/1ydfVpqlFV_n6NzsweGpVnuAGl4ZRmKhj/view?usp=drive_link)**
+- ⚡ Fun fact: **Trust The Process!**
+
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<div align="center" width=100%>
+  <!-- <a href="https://codeforces.com/profile/A_elGabbas_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+	  &emsp; 
+	<a href="https://leetcode.com/u/Ahmed_ELGabbas
+"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.hackerrank.com/profile/Ahmed ElGabbas
+"><img src="https://d3moma7wl9.ufs.sh/f/xRZhVxWEJbFM5hhrNBVDPceGaQzspRf8tvH62OwX1ldE7oCU" alt="HackerRank" width=6% /></a>     
+	  &emsp;
+	<a href="https://www.codechef.com/users/Ahmed ElGabbas
+"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	  &emsp;  -->
+<a href="https://codeforces.com/profile/A_elGabbas__"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+	<a href="https://leetcode.com/u/Ahmed_ELGabbas"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+	<a href="https://www.hackerrank.com/profile/Ahmed ElGabbas"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+	<a href="https://www.codechef.com/users/Ahmed ElGabbas"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;	
+<!-- <a href="https://icpc.global/ICPCID/JB9H3C1Y3BTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
+	  &emsp; -->
+
+
+  
+
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,python,java,js,html,css,tailwind,bootstrap,mysql,git,github,linux,ubuntu,debian,vscode,pycharm,postman" />
+</p>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elagabbas&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&border_radius=10" alt="GitHub Stats" width="55%"/><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Elagabbas&theme=chartreuse-dark&hide_border=false&border_radius=10" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elagabbas&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="GitHub Stats" width="36%" />
+</p>
+
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+<p align="center">
+	<a href="mailto:ahmedelgabbas769@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://x.com/Ahmed ElGabbas
+"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
+	<a href="https://wa.me/0201117024500"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/‏Ahmed ElGabbas‏"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/Ahmed Mahmoud ElGabbas "><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/elg.abbas"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## Pac-Man vs. My GitHub Streak 🕹️👻
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Elagabbas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamediibra7im/Elagabbas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elagabbas/Elagabbas/output/pacman-contribution-graph.svg">
+</picture>
+
+
+## Support 🙏🏼
+<p><a href="https://ko-fi.com/Ahmed ElGabbas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ahmed ElGabbas" /></a></p><br><br>
