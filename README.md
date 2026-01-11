@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ahmed-elgabbas">
+  <a href="https://www.linkedin.com/in/‏Ahmed ElGabbas‏">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
