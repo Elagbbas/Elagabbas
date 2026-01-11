@@ -33,14 +33,27 @@
 	<a href="https://www.codechef.com/users/Ahmed ElGabbas
 "><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp;  -->
-<a href="https://codeforces.com/profile/A_elGabbas__"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-	<a href="https://leetcode.com/u/Ahmed_ELGabbas"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-	<a href="https://www.hackerrank.com/profile/Ahmed ElGabbas"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-	<a href="https://www.codechef.com/users/Ahmed ElGabbas"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;	
+<p align="center">
+  <a href="https://codeforces.com/profile/A_elGabbas">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Ahmed_ELGabbas">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/Ahmed_ElGabbas">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/Ahmed_ElGabbas">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+
+  
+
 <!-- <a href="https://icpc.global/ICPCID/JB9H3C1Y3BTD"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
 	  &emsp; -->
 
@@ -67,28 +80,32 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
   <img src="https://github.com/70Skaaa/70Skaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
-</p>
 <p align="center">
   <a href="mailto:ahmedelgabbas769@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/Ahmed ElGabbas
-">
+
+  <a href="https://x.com/AhmedElGabbas">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://wa.me/0201117024500">
+
+  <a href="https://wa.me/201117024500">
     <img src="https://img.shields.io/badge/whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/‏Ahmed ElGabbas">
+
+  <a href="https://www.linkedin.com/in/ahmed-elgabbas">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.facebook.com/AhmedMahmoudElGabbas">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/elg.abbas">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ## Pac-Man vs. My GitHub Streak 🕹️👻
 <picture>
